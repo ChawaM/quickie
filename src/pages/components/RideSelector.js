@@ -1,6 +1,6 @@
 import React from 'react'
 import tw from 'tailwind-styled-components'
-import { carList } from '../data/data'
+import { carList } from '../../data/data'
 import { useEffect, useState } from 'react'
 import App from '../_app'
 
